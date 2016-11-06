@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Next Innovation</title>
+  <subtitle>What comes to your mind...</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://unclesunnywen.github.io/"/>
+  <updated>2016-10-30T10:25:11.312Z</updated>
+  <id>http://unclesunnywen.github.io/</id>
+  
+  <author>
+    <name>Uncle Sunny</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GitHub Pages</title>
+    <link href="http://unclesunnywen.github.io/2016/10/30/GitHub-Pages/"/>
+    <id>http://unclesunnywen.github.io/2016/10/30/GitHub-Pages/</id>
+    <published>2016-10-30T07:57:12.874Z</published>
+    <updated>2016-10-30T10:25:11.312Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Welcome-to-GitHub-Pages"><a href="#Welcome-to-GitHub-Pages" class="headerlink" title="Welcome to GitHub Pages."></a>Welcome to GitHub Pages.</h2><p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here <a href="https://guides.github.com/features/mastering-markdown/" target="_blank" rel="external">using GitHub Flavored Markdown</a>, select a template crafted by a designer, and publish. After your page is generated, you can check out the new gh-pages branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.<br><a id="more"></a></p>
+<h2 id="Designer-Templates"><a href="#Designer-Templates" class="headerlink" title="Designer Templates"></a>Designer Templates</h2><p>We’ve crafted some handsome templates for you to use. Go ahead and click ‘Continue to layouts’ to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.</p>
+<h2 id="Creating-pages-manually"><a href="#Creating-pages-manually" class="headerlink" title="Creating pages manually"></a>Creating pages manually</h2><p>If you prefer to not use the automatic generator, push a branch named gh-pages to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
+<h2 id="Authors-and-Contributors"><a href="#Authors-and-Contributors" class="headerlink" title="Authors and Contributors"></a>Authors and Contributors</h2><p>You can <a href="https://help.github.com/articles/basic-writing-and-formatting-syntax/#mentioning-users-and-teams" target="_blank" rel="external">@mention</a> a GitHub username to generate a link to their profile. The resulting element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" target="_blank" rel="external">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" target="_blank" rel="external">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" target="_blank" rel="external">@mojombo</a>) founded GitHub.</p>
+<h2 id="Support-or-Contact"><a href="#Support-or-Contact" class="headerlink" title="Support or Contact"></a>Support or Contact</h2><p>Having trouble with Pages? Check out our <a href="https://help.github.com/pages" target="_blank" rel="external">documentation</a> or <a href="https://github.com/contact" target="_blank" rel="external">contact support</a> and we’ll help you sort it out.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Welcome-to-GitHub-Pages&quot;&gt;&lt;a href=&quot;#Welcome-to-GitHub-Pages&quot; class=&quot;headerlink&quot; title=&quot;Welcome to GitHub Pages.&quot;&gt;&lt;/a&gt;Welcome to GitHub Pages.&lt;/h2&gt;&lt;p&gt;This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here &lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;using GitHub Flavored Markdown&lt;/a&gt;, select a template crafted by a designer, and publish. After your page is generated, you can check out the new gh-pages branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="GitHub" scheme="http://unclesunnywen.github.io/categories/GitHub/"/>
+    
+    
+      <category term="GitHub" scheme="http://unclesunnywen.github.io/tags/GitHub/"/>
+    
+      <category term="Markdown" scheme="http://unclesunnywen.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://unclesunnywen.github.io/2016/10/30/hello-world/"/>
+    <id>http://unclesunnywen.github.io/2016/10/30/hello-world/</id>
+    <published>2016-10-30T06:44:32.445Z</published>
+    <updated>2016-10-30T14:00:04.434Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.<br><a id="more"></a></p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
